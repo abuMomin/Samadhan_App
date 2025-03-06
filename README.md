@@ -63,8 +63,6 @@ Samadhan follows a **4-Tier Layered Architecture:**
    yarn run start
    ```
 
-## License
-This project is licensed under the MIT License.
 
 ## Contributors
 We welcome contributions! Please submit a pull request or open an issue.
